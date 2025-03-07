@@ -28,3 +28,5 @@ All images were generated using:
 # Image resolution
 512px x 512px x 3 channels
 
+# How to download the entire dataset
+The easiest way to download all the image files is to go to the Release page and download the zip file (Assets | Source code (zip)) which contains all the images.
