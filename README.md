@@ -19,3 +19,12 @@ All images were generated using:
 * Some images may contain artifacts.  
 * Anatomical inaccuracies may be present (e.g., incorrect tail positioning).  
 
+# Number of images
+|   | Cats | Dogs |
+|---|---|---|
+| Train | 850 | 850 |
+| Validation | 150 | 150 |
+
+# Image resolution
+512px x 512px x 3 channels
+
